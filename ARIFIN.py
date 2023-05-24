@@ -1,0 +1,2 @@
+print("\033[1;36mTHIS TOOLS ON UPDATE......")
+print("\033[1;36mTHIS TOOL WILL RUN AFTER UPDATE...")
