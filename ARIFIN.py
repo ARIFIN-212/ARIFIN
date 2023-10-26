@@ -1,1 +1,1 @@
-import arifin
+print ('TOOL OFF')
