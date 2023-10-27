@@ -1,3 +1,1 @@
-import os
-os.system('clear')
-print ('TOOL OFF')
+import arifin
